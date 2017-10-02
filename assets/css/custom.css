@@ -1,0 +1,22 @@
+.success-message{
+    color: #3c763d;
+	font-size: 15px;
+	font-weight: bold;
+}
+.error-message{
+    color: #a94442;
+	font-size: 15px;
+	font-weight: bold;
+}
+.search-input{
+	width: 31%;
+    float: right;
+	margin-bottom: 7px;
+}
+.inner-content {
+    margin-left: 300px;
+	margin-top: 80px;
+}
+.asterisk{
+	color:red;
+}
